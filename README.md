@@ -2,7 +2,7 @@
 
 A Claude Code skill for detecting sequential independent HTTP/API calls and refactoring them to parallel execution.
 
-See [`skill/`](skill/) for the full skill definition, documentation, and copy-pasteable patterns.
+See [`skill`](SKILL.md) for the full skill definition, documentation, and copy-pasteable patterns.
 
 ## Quick Start
 

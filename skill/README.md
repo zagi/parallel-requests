@@ -49,13 +49,13 @@ Copy-pasteable code blocks for each language in `references/patterns.md`.
 ### Using npx skills
 
 ```bash
-npx skills install parallel-requests
+npx skills install zagi/parallel-requests
 ```
 
 ### Manual
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:zagi/parallel-requests.git
 ln -s $(pwd)/skill ~/.agents/skills/parallel-requests
 ```
 

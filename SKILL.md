@@ -106,7 +106,7 @@ users, posts, comments = users_task.result(), posts_task.result(), comments_task
 | Ruby | `Async { ... }` | `async` gem |
 | Shell | `cmd1 & cmd2 & wait` / `xargs -P N` | built-in |
 
-See `references/patterns.md` for copy-pasteable code blocks in each language.
+See `skill/patterns.md` for copy-pasteable code blocks in each language.
 
 ## Dependency Detection & Restructuring
 

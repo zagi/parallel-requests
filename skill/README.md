@@ -28,7 +28,7 @@ When Claude encounters multiple sequential HTTP/API requests that don't depend o
 
 **Python** — `asyncio.gather`, `asyncio.TaskGroup` (3.11+), `asyncio.Semaphore`
 
-Full patterns with BEFORE/AFTER examples in `SKILL.md`.
+Full patterns with BEFORE/AFTER examples in [`SKILL.md`](../SKILL.md).
 
 ## Other Languages
 
@@ -42,7 +42,7 @@ Full patterns with BEFORE/AFTER examples in `SKILL.md`.
 | Ruby | `Async { ... }` | `async` gem |
 | Shell | `cmd1 & cmd2 & wait` / `xargs -P N` | built-in |
 
-Copy-pasteable code blocks for each language in `references/patterns.md`.
+Copy-pasteable code blocks for each language in `patterns.md`.
 
 ## Installation
 

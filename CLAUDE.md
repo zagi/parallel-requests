@@ -4,9 +4,9 @@ A Claude Code skill that detects sequential independent HTTP/API calls and refac
 
 ## Structure
 
-- `skill/SKILL.md` — Core skill definition with detection rules, patterns, and anti-patterns
+- `SKILL.md` — Core skill definition with detection rules, patterns, and anti-patterns
 - `skill/README.md` — Public documentation with installation instructions
-- `skill/references/patterns.md` — Copy-pasteable code patterns for 9 languages
+- `skill/patterns.md` — Copy-pasteable code patterns for 9 languages
 - `skill/LICENSE` — MIT license
 
 ## Primary Languages
